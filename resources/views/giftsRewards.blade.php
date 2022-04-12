@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index." class="logo">
+            <a href="index" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -58,7 +58,7 @@ About us | MyWebsite
                   <a href="favList.">بطاقاتك المفضلة</a>
                   <a href="giftsRewards.">الهدايا والجوائز</a>
                   <a href="editPassword.">تعديل كلمة المرور</a>
-                  <a href="index.">تسجيل خروج</a>
+                  <a href="index">تسجيل خروج</a>
                 </div>
               </div>
               <div class="fav-cont">
@@ -418,7 +418,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index.">الرئيسية</a>
+            <a href="index">الرئيسية</a>
           </li>
           <li class="active">الهدايا والجوائز</li>
         </ol>

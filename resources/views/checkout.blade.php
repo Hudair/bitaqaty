@@ -29,10 +29,10 @@
     <!-- Start Header -->
     <div class="container">
       <div class="small-head">
-        <a href="index." class="logo">
+        <a href="index" class="logo">
           <img src="images/logo.svg" class="img-fluid" />
         </a>
-        <a href="index." class="back-shopping">
+        <a href="index" class="back-shopping">
           <i class="las la-arrow-right"></i>
           إضافة المزيد من البطاقات
         </a>

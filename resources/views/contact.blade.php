@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index." class="logo">
+            <a href="index" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -421,7 +421,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index.">الرئيسية</a>
+            <a href="index">الرئيسية</a>
           </li>
           <li class="active">اتصل بنا</li>
         </ol>
