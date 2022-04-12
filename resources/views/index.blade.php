@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index" class="logo">
+            <a href="index.php" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">

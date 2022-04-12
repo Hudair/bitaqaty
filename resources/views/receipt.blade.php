@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index" class="logo">
+            <a href="index.php" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -421,7 +421,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index">الرئيسية</a>
+            <a href="index.php">الرئيسية</a>
           </li>
           <li class="active">الطلبات</li>
         </ol>
@@ -629,7 +629,7 @@ About us | MyWebsite
                   </div>
                 </div>
                 <div class="receipt-btn">
-                  <a href="index" class="secondary-btn">
+                  <a href="index.php" class="secondary-btn">
                     شراء المزيد من البطاقات
                   </a>
                 </div>

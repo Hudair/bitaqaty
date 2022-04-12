@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index" class="logo">
+            <a href="index.php" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -421,7 +421,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index">الرئيسية</a>
+            <a href="index.php">الرئيسية</a>
           </li>
           <li>
             <a href="category">بلايستيشن</a>
@@ -853,7 +853,7 @@ About us | MyWebsite
       </div>
     </footer>
     <!-- End Footer -->
-    <div class="modal HowToUse" id="HowToUse" tabindex="-1" aria-hidden="true">
+    <div class="modal HowToUse" id="HowToUse" tabindex.php="-1" aria-hidden="true">
       <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
           <button

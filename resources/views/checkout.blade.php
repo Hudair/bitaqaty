@@ -29,10 +29,10 @@
     <!-- Start Header -->
     <div class="container">
       <div class="small-head">
-        <a href="index" class="logo">
+        <a href="index.php" class="logo">
           <img src="images/logo.svg" class="img-fluid" />
         </a>
-        <a href="index" class="back-shopping">
+        <a href="index.php" class="back-shopping">
           <i class="las la-arrow-right"></i>
           إضافة المزيد من البطاقات
         </a>
@@ -308,7 +308,7 @@
     <div
       class="modal deleteConfirm"
       id="deleteConfirm"
-      tabindex="-1"
+      tabindex.php="-1"
       aria-hidden="true"
     >
       <div class="modal-dialog modal-dialog-centered">

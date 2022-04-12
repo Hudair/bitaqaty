@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index" class="logo">
+            <a href="index.php" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -58,7 +58,7 @@ About us | MyWebsite
                   <a href="favList">بطاقاتك المفضلة</a>
                   <a href="giftsRewards">الهدايا والجوائز</a>
                   <a href="editPassword">تعديل كلمة المرور</a>
-                  <a href="index">تسجيل خروج</a>
+                  <a href="index.php">تسجيل خروج</a>
                 </div>
               </div>
               <div class="fav-cont">
@@ -418,7 +418,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index">الرئيسية</a>
+            <a href="index.php">الرئيسية</a>
           </li>
           <li class="active">بطاقاتك المفضلة</li>
         </ol>
@@ -732,7 +732,7 @@ About us | MyWebsite
                   <i class="las la-lock"></i>
                   تعديل كلمة المرور
                 </a>
-                <a href="index" class="side-link">
+                <a href="index.php" class="side-link">
                   <i class="las la-sign-out-alt"></i>
                   تسجيل خروج
                 </a>
@@ -844,7 +844,7 @@ About us | MyWebsite
     <div
       class="modal deleteConfirm"
       id="deleteConfirm"
-      tabindex="-1"
+      tabindex.php="-1"
       aria-hidden="true"
     >
       <div class="modal-dialog modal-dialog-centered">

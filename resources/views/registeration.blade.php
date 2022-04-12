@@ -38,7 +38,7 @@ About us | MyWebsite
       <div class="register-page">
         <!-- Start Header -->
         <div class="small-head">
-          <a href="index" class="logo">
+          <a href="index.php" class="logo">
             <img src="images/logo.svg" class="img-fluid" />
           </a>
         </div>

@@ -37,7 +37,7 @@ About us | MyWebsite
       <div class="header-cont">
         <div class="container">
           <div class="header">
-            <a href="index" class="logo">
+            <a href="index.php" class="logo">
               <img src="./images/logo.svg" class="img-fluid" />
             </a>
             <form class="search-form">
@@ -420,7 +420,7 @@ About us | MyWebsite
       <div class="container">
         <ol class="breadcrumb">
           <li>
-            <a href="index">الرئيسية</a>
+            <a href="index.php">الرئيسية</a>
           </li>
           <li class="active">سلة الشراء</li>
         </ol>
@@ -550,7 +550,7 @@ About us | MyWebsite
                 </div>
               </div>
               <div class="cart-btns">
-                <a href="index" class="primary-btn continue">
+                <a href="index.php" class="primary-btn continue">
                   إضافة المزيد
                 </a>
                 <a href="checkout" class="secondary-btn checkout">
@@ -876,7 +876,7 @@ About us | MyWebsite
     <div
       class="modal deleteConfirm"
       id="deleteConfirm"
-      tabindex="-1"
+      tabindex.php="-1"
       aria-hidden="true"
     >
       <div class="modal-dialog modal-dialog-centered">
